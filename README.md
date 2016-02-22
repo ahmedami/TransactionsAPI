@@ -6,7 +6,7 @@
 
 ### DataBase Layer
 Since There is no Database this layer insteadeof Database it more like cache but for sake of simplicity lets deal with it as dataBase.
-  ####DataStructrue
+####DataStructrue
     Here i influenced by Graph and specificly adjacency list representation, However i used Hash to store those objects.
     ![alt tag](https://github.com/ahmedami/TransactionsAPI/blob/master/datastructure.png)
     
